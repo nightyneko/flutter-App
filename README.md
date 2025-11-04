@@ -5,22 +5,6 @@ A Flutter application for time-management and productivity.
 
 ---
 
-## Table of Contents  
-- [About](#about)  
-- [Features](#features)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-  - [Running the App](#running-the-app)  
-- [Architecture & Folder Structure](#architecture-folder-structure)  
-- [Usage](#usage)  
-- [Configuration](#configuration)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
-
----
-
 ## About  
 This project is a Flutter application aiming to help users manage their time, tasks and productivity. The current repository (named “myproject”) houses the mobile (and possibly web/desktop) implementation.
 
